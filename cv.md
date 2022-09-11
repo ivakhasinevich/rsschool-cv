@@ -10,3 +10,9 @@
 **Skills**
 - **Languages:** Basic JavaScript
 - **Source Control:** Git
+
+**Education**
+- 2009-2013 Minsk State Energy College
+
+**English**
+A1
